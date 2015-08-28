@@ -1,0 +1,6 @@
+Contributing
+============
+
+To contribute with a snippet, please create a notebook with as
+many comments as you can. If the notebook has a dependency that is
+not listed in the requirements.txt file, please update it.
