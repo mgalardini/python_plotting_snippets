@@ -11,3 +11,4 @@ Contents
 --------
 
 * [Highlight clusters in a heatmap](notebooks/clusters.ipynb)
+* [Multiple heatmaps as polar plots](notebooks/polar_plot.ipynb)
